@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Inder&family=Montserrat&family=Raleway&display=swap');
+
+.nav-box{
+    height: 64px;
+    background-color: #212121;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-content-style{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 15px;
+    cursor: pointer;
+
+}
+.nav-content-style label{
+    cursor: pointer;
+
+}
+.nav-logo-DG{
+    margin: 0;
+    color: #fff;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 25px;
+    font-family: 'Rubik', sans-serif;
+
+}
+.nav-content{
+    align-items: center;
+    display: flex;
+}
+.nav-content-genre-select{
+    background: none;
+    border: none;
+    outline: none;
+    color: #fff;
+
+}
+.nav-content-about{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.nav-content-profile{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.nav-icons-heart-icon{
+    color: #6D6D6D;
+    font-size: 25px;
+
+}
+.nav-icons-search-icon{
+    color: #6D6D6D;
+    font-size: 25px;
+}
+.nav-icons-user-icon{
+    color: #6D6D6D;
+    font-size: 25px;
+}
+.nav-icons-icon{
+    cursor: pointer;
+    margin: 0 10px;
+}
+.nav-icons-icon:hover{
+    color: #fff;
+}
+.nav-icons-user-icon{
+    margin-right: 20px;
+}

@@ -1,0 +1,93 @@
+
+* {
+    box-sizing: border-box;
+}
+
+
+.container{
+    height: 100vh;
+    max-width: 100%;
+    background: #242132;    
+    overflow-x: hidden;
+
+}
+.main-div{
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+    margin: 0 auto;
+    margin-top: 50px;
+
+}
+/* section-one */
+
+.section-one-header{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.section-one-header-arrow{
+    margin-left: -70px;
+    margin-right: 20px;
+}
+
+.section-one-header-spoder-man{
+    margin: 0;
+    font-family: 'Bebas Neue', cursive;
+    color: #fff;
+    font-size: 35px;
+    letter-spacing: 2px;
+}
+
+/* section-one */
+/* section-two */
+.section-two{
+    display: flex;
+}
+.section-two-image-01{
+    height: 430px;
+    width: auto;
+}          
+.section-two-image-short-style{
+    height: 86px;
+    width: auto;
+}
+.section-two-images-small-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-left: 10px;
+    gap: 10px;
+}
+.section-two-image-03{
+    opacity: 1;
+}
+.section-two-img-opacity{
+    opacity: 0.5;
+}
+.section-two-img-opacity:hover{
+    opacity: 1;
+}
+
+.section-two-logo{
+    display: flex;
+    justify-content: center; 
+    margin-right: 20px;
+    flex-direction: column;
+}
+.section-two-logo-main img{
+    height: 200px;
+}
+.section-two-logo-sub{
+    display: flex;
+    margin: 10px ;
+    justify-content: center;
+    gap: 15px;
+}
+.section-two-logo-sub img{
+    height: 86px;
+
+}
+
+/* section-two */

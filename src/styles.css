@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inder&family=Montserrat&family=Raleway&family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inder&family=Montserrat&family=Raleway&family=Roboto+Condensed&family=Rubik&display=swap');
+
+/* font-family: 'Rubik', sans-serif; */
+/* font-family: 'Bebas Neue', cursive; */
+
+
+body{
+    margin: 0;
+}
